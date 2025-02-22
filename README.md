@@ -1,5 +1,5 @@
 # Predictive Analytics for Gold Ore Extraction
-View project: [Predictive Analytics for Gold Ore Extraction]()
+View project: [Predictive Analytics for Gold Ore Extraction](https://github.com/BradyQuack/Predictive-Analytics-for-Gold-Ore-Extraction/blob/main/Project10.ipynb)
 ## Project Description:
 Task statement
 Prepare a prototype of a machine learning model for Zyfra. The company develops efficiency solutions for heavy industry.
